@@ -11,7 +11,7 @@
 
 <h3>How to run: </h3>
    
-<p>Note: You must have a C++ compiler installed on your computer</p>
+<p>Note: You must have a C++ compiler installed on your computer.</p>
 
     make 
 
@@ -19,5 +19,5 @@
 
 <br />
 
-<p>This assignement was created by Dr. David Wessels of Vancouver Island University</p>
+<p>This assignment was created by Dr. David Wessels of Vancouver Island University.</p>
 
